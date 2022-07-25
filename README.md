@@ -69,5 +69,3 @@
   Rahul T
 </div>
 <br><br>
-
-![Rahul And Adi](screenshots/adi-and-rahul.gif)
